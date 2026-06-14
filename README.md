@@ -499,8 +499,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 
-- 📧 Email: [info@smartparking.af](mailto:info@smartparking.af)
-- 📱 Phone: +93 700 000 000
+- 📧 Email:
+- 📱 Phone: 
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/smart-parking-afghanistan/issues)
 
 ---
